@@ -1,0 +1,20 @@
+Hello world!	Bonjour le monde!
+How are you?	Comment allez-vous?
+I love programming.	J'aime la programmation.
+The weather is nice today.	Le temps est beau aujourd'hui.
+Can you help me?	Pouvez-vous m'aider?
+Thank you very much.	Merci beaucoup.
+What time is it?	Quelle heure est-il?
+I don't understand.	Je ne comprends pas.
+Where is the library?	Où est la bibliothèque?
+Good morning!	Bonjour!
+Have a nice day!	Bonne journée!
+I'm learning French.	J'apprends le français.
+This is very interesting.	C'est très intéressant.
+What's your name?	Comment vous appelez-vous?
+Nice to meet you.	Enchanté de vous rencontrer.
+How old are you?	Quel âge avez-vous?
+I live in Paris.	J'habite à Paris.
+Do you speak English?	Parlez-vous anglais?
+The food is delicious.	La nourriture est délicieuse.
+I need to go now.	Je dois partir maintenant. 
