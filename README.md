@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) Learning Repository
+# Natural Language Processing (NLP)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
