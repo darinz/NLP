@@ -6,6 +6,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+> **⚠️ Note: This repository is currently under construction. Content is being actively developed and may be incomplete.**
+
 A comprehensive repository for learning, mastering, and gaining hands-on experience in Natural Language Processing (NLP). This repository contains tutorials, projects, guides, and code examples designed to take you from beginner to advanced NLP practitioner.
 
 ## Learning Objectives
