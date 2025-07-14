@@ -61,8 +61,8 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/darinz/Natural-Language-Processing.git
-cd Natural-Language-Processing
+git clone https://github.com/darinz/NLP.git
+cd NLP
 
 # Create virtual environment
 python -m venv nlp_env
@@ -82,7 +82,7 @@ jupyter notebook nlp_rnn_name_classification.ipynb
 ## Repository Structure
 
 ```
-Natural-Language-Processing/
+NLP/
 ├── guides/                    # Comprehensive NLP guides
 │   ├── text-preprocessing.md
 │   ├── tokenization.md
@@ -202,10 +202,10 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## Repository Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/darinz/Natural-Language-Processing?style=social)
-![GitHub forks](https://img.shields.io/github/forks/darinz/Natural-Language-Processing?style=social)
-![GitHub issues](https://img.shields.io/github/issues/darinz/Natural-Language-Processing)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/darinz/Natural-Language-Processing)
+![GitHub stars](https://img.shields.io/github/stars/darinz/NLP?style=social)
+![GitHub forks](https://img.shields.io/github/forks/darinz/NLP?style=social)
+![GitHub issues](https://img.shields.io/github/issues/darinz/NLP)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/darinz/NLP)
 
 ## License
 
@@ -220,8 +220,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- Discussions: [GitHub Discussions](https://github.com/darinz/Natural-Language-Processing/discussions)
-- Issues: [GitHub Issues](https://github.com/darinz/Natural-Language-Processing/issues)
+- Discussions: [GitHub Discussions](https://github.com/darinz/NLP/discussions)
+- Issues: [GitHub Issues](https://github.com/darinz/NLP/issues)
 
 ---
 
