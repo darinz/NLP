@@ -24,31 +24,19 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ## Learning Path
 
-### Word Vectors
-
-### Language Models
-
-### Backpropagation and Neural Network Basics 
-
-### Dependency Parsing
-
-### Basic Sequence Models to RNNs
-
-### Advanced Variants of RNNs, Attention
-
-### Transformers
-
-### Pretraining
-
-### Post-training (RLHF, SFT, DPO)
-
-### Efficient Adaptation (Prompting + PEFT)
-
-### Benchmarking and Evaluation
-
-### Question Answering and Knowledge 
-
-### Retrieval-based LM at Scale
+1. Word Vectors
+2. Language Models
+3. Backpropagation and Neural Network Basics
+4. Dependency Parsing
+5. Basic Sequence Models to RNNs
+6. Advanced Variants of RNNs, Attention
+7. Transformers
+8. Pretraining
+9. Post-training (RLHF, SFT, DPO)
+10. Efficient Adaptation (Prompting + PEFT)
+11. Benchmarking and Evaluation
+12. Question Answering and Knowledge
+13. Retrieval-based LM at Scale
 
 ## Quick Start
 
@@ -80,19 +68,19 @@ jupyter notebook nlp_rnn_name_classification.ipynb
 
 ## Featured Projects
 
-### 1. **Multi-Language Name Classification** 
+### 1. **Multi-Language Name Classification**
 Classify names across 18 different languages using RNNs
 - **Technologies**: PyTorch, NumPy
 - **Skills**: RNNs, Text Processing, Multi-class Classification
 - **Difficulty**: Beginner
 
-### 2. **Neural Machine Translation** 
+### 2. **Neural Machine Translation**
 Build English-French and German-English translation systems
 - **Technologies**: PyTorch, Transformers, TorchText
 - **Skills**: Seq2Seq, Attention, Transformer Architecture
 - **Difficulty**: Intermediate
 
-### 3. **BERT Fine-tuning Pipeline** 
+### 3. **BERT Fine-tuning Pipeline**
 Complete pipeline for fine-tuning BERT on custom datasets
 - **Technologies**: Transformers, PyTorch, Hugging Face
 - **Skills**: Transfer Learning, Fine-tuning, Model Optimization
