@@ -170,25 +170,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Documentation enhancements
 - Bug fixes and issue resolution
 
-## Repository Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/darinz/NLP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/darinz/NLP?style=social)
-![GitHub issues](https://img.shields.io/github/issues/darinz/NLP)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/darinz/NLP)
-
-## Acknowledgments
-
-- PyTorch team for the excellent deep learning framework
-- Hugging Face for the Transformers library
-- The NLP research community for foundational work
-- All contributors and users who provide feedback
-
-## Support
-
-- Discussions: [GitHub Discussions](https://github.com/darinz/NLP/discussions)
-- Issues: [GitHub Issues](https://github.com/darinz/NLP/issues)
-
 ---
 
 **Star this repository if you find it helpful!**
