@@ -20,38 +20,17 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ## Learning Path
 
-### Beginner Level
-1. **Text Preprocessing Fundamentals**
-   - [Text Cleaning and Normalization](guides/text-preprocessing.md)
-   - [Tokenization Techniques](guides/tokenization.md)
-   - [Basic Text Analysis](guides/text-analysis.md)
+### Word Vectors
 
-2. **Traditional NLP Methods**
-   - [Bag of Words and TF-IDF](guides/bag-of-words.md)
-   - [Word Embeddings (Word2Vec, GloVe)](guides/word-embeddings.md)
-   - [Named Entity Recognition](guides/ner.md)
+### Language Models
 
-### Intermediate Level
-3. **Neural Networks for NLP**
-   - [RNN Name Classification](tutorial/RNN-Classification/) 
-   - [RNN Machine Translation](tutorial/RNN-Translation/) 
-   - [LSTM for Sentiment Analysis](projects/sentiment-analysis/)
+### Neural Network
+- Backpropagation
+- Neural Network Basics 
 
-4. **Attention and Transformers**
-   - [Transformer Machine Translation](tutorial/Transformer-Translation/) 
-   - [BERT Fine-tuning](projects/bert-finetuning/)
-   - [Text Generation with GPT](projects/text-generation/)
+### Dependency Parsing
 
-### Advanced Level
-5. **Advanced Applications**
-   - [Question Answering Systems](projects/question-answering/)
-   - [Text Summarization](projects/text-summarization/)
-   - [Dialogue Systems](projects/dialogue-systems/)
-
-6. **Production Deployment**
-   - [Model Serving with FastAPI](projects/model-serving/)
-   - [Streamlit Web Applications](projects/web-apps/)
-   - [Docker Containerization](guides/deployment.md)
+### Basic Sequence Models to RNNs 
 
 ## Quick Start
 
