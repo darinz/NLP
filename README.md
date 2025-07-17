@@ -23,9 +23,7 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ### Language Models
 
-### Neural Network
-- Backpropagation
-- Neural Network Basics 
+### Backpropagation and Neural Network Basics 
 
 ### Dependency Parsing
 
@@ -39,7 +37,13 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ### Post-training (RLHF, SFT, DPO)
 
-### Efficient Adaptation (Prompting + PEFT) 
+### Efficient Adaptation (Prompting + PEFT)
+
+### Benchmarking and Evaluation
+
+### Question Answering and Knowledge 
+
+### Retrieval-based LM at Scale
 
 ## Quick Start
 
