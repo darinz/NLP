@@ -30,7 +30,17 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ### Dependency Parsing
 
-### Basic Sequence Models to RNNs 
+### Basic Sequence Models to RNNs
+
+### Advanced Variants of RNNs, Attention
+
+### Transformers
+
+### Pretraining
+
+### Post-training (RLHF, SFT, DPO)
+
+### Efficient Adaptation (Prompting + PEFT) 
 
 ## Quick Start
 
