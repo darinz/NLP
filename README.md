@@ -69,35 +69,6 @@ cd tutorial/RNN-Classification
 jupyter notebook nlp_rnn_name_classification.ipynb
 ```
 
-## Repository Structure
-
-```
-NLP/
-├── guides/                    # Comprehensive NLP guides
-│   ├── text-preprocessing.md
-│   ├── tokenization.md
-│   ├── word-embeddings.md
-│   ├── neural-networks.md
-│   └── deployment.md
-├── tutorial/                  # Step-by-step tutorials
-│   ├── RNN-Classification/      # Name classification across languages
-│   ├── RNN-Translation/         # English-French translation
-│   └── Transformer-Translation/ # German-English with Transformers
-├── projects/                  # Complete project implementations
-│   ├── sentiment-analysis/
-│   ├── bert-finetuning/
-│   ├── text-generation/
-│   ├── question-answering/
-│   └── model-serving/
-├── examples/                  # Code examples and snippets
-│   ├── preprocessing/
-│   ├── models/
-│   └── utils/
-├── datasets/                  # Sample datasets and data loading
-├── tests/                     # Unit tests and validation
-└── resources/                 # Additional learning resources
-```
-
 ## Featured Projects
 
 ### 1. **Multi-Language Name Classification** 
