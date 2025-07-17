@@ -11,11 +11,16 @@ A comprehensive repository for learning, mastering, and gaining hands-on experie
 
 ## Learning Objectives
 
-- **Master NLP Fundamentals**: Text preprocessing, tokenization, embeddings
-- **Build Neural Networks**: RNNs, LSTMs, GRUs, Transformers
-- **Implement Real Projects**: Classification, translation, generation, sentiment analysis
-- **Use Modern Tools**: PyTorch, Transformers, SpaCy, NLTK
-- **Deploy NLP Models**: Production-ready applications and APIs
+- **Understand word embeddings and representations**
+- **Build and evaluate language models**
+- **Master neural network and backpropagation basics**
+- **Apply dependency parsing techniques**
+- **Develop sequence models (RNNs, LSTMs, GRUs)**
+- **Implement attention and Transformer architectures**
+- **Explore pretraining and post-training methods**
+- **Use efficient adaptation (prompting, PEFT)**
+- **Benchmark and evaluate NLP models**
+- **Build question answering and retrieval-based systems**
 
 ## Learning Path
 
