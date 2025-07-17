@@ -4,7 +4,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.0+-yellow.svg)](https://huggingface.co/transformers/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **⚠️ Note: This repository is currently under construction. Content is being actively developed and may be incomplete.**
 
@@ -197,10 +196,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ![GitHub forks](https://img.shields.io/github/forks/darinz/NLP?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/darinz/NLP)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/darinz/NLP)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
